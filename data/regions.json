@@ -1,0 +1,102 @@
+{
+  "northeast-region": {
+    "name": " Northeast",
+    "color": "#2379BE",
+    "hueRotate": "0deg",
+    "geoPoint": {
+      "latitude": 41.953845941,
+      "longitude": -75.179443359
+    }
+  },
+  "Southeast": {
+    "name": "Southeast",
+    "color": "#008d42",
+    "hueRotate": "288deg",
+    "geoPoint": {
+      "latitude": 33.378442307,
+      "longitude": -85.649414063
+    }
+  },
+  "Midwest": {
+    "name": "Midwest",
+    "color": "#cc5237",
+    "hueRotate": "160deg",
+    "geoPoint": {
+      "latitude": 41.376808566,
+      "longitude": -92.4609215
+    }
+  },
+  "Mountain": {
+    "name": "Mountain",
+    "color": "#c549af",
+    "hueRotate": "96deg",
+    "geoPoint": {
+      "latitude": 41.894104095,
+      "longitude": -111.181640625
+    }
+  },
+  "Pacific": {
+    "name": "Pacific",
+    "color": "#697900",
+    "hueRotate": "224deg",
+    "geoPoint": {
+      "latitude": 43.809631132,
+      "longitude": -121.640625
+    }
+  },
+  "US_polynesia": {
+    "name": "Pacific",
+    "color": "#697900",
+    "hueRotate": "224deg",
+    "geoPoint": {
+      "latitude": 21.911035954,
+      "longitude": -153.984375
+    }
+  },
+  "Southwest": {
+    "name": "Southwest",
+    "color": "#a2670e",
+    "hueRotate": "192deg",
+    "geoPoint": {
+      "latitude": 33.788283601,
+      "longitude": -104.15039062
+    }
+  },
+  "Canada": {
+    "name": "Canada",
+    "color": "#008b7d",
+    "hueRotate": "320deg",
+    "geoPoint": {
+      "latitude": 69.758831301,
+      "longitude": -100.4062508755
+    }
+  },
+  "Caribbean": {
+    "name": "Caribbean",
+    "color": "#616dcd",
+    "hueRotate": "32deg",
+    "geoPoint": {
+      "latitude": 18.985954119,
+      "longitude": -70.439785857
+    }
+  },
+  "Mexico": {
+    "name": "Mexico",
+    "color": "#da4972",
+    "hueRotate": "128deg",
+    "geoPoint": {
+      "latitude": 19.614731822,
+      "longitude": -99.077304034
+    }
+  },
+  "tmp-latin_samerica": {
+    "name": "Lat Am",
+    "color": "#2b870f",
+    "hueRotate": "256deg",
+    "geoPoint": {
+      "latitude": -1.817009756,
+      "longitude": -74.385448179
+    }
+  }
+}
+
